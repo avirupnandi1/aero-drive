@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "448131904605",
+    "project_id": "aero-drive-715bc",
+    "storage_bucket": "aero-drive-715bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448131904605:android:18d7ebcbf8f9c930c789b4",
+        "android_client_info": {
+          "package_name": "com.a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKcb_8KpDBHWobm65WQGEMe7dvlpTdzM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448131904605:android:2aa0c1b5c7c4c0f7c789b4",
+        "android_client_info": {
+          "package_name": "com.example.aero_drive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKcb_8KpDBHWobm65WQGEMe7dvlpTdzM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
